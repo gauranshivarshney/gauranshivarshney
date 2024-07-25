@@ -1,3 +1,4 @@
+![logo]("https://github.com/gauranshivarshney/gauranshivarshney/blob/main/A%20SELF%20LEARNER.png")
 # 💫 About Me:
 👋 Hi there! I'm a passionate developer with a strong foundation in both front-end and back-end technologies. 
 
