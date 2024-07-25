@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate developer with a strong foundation in both front-end and back-end technologies. My skill set includes:
+👋 Hi there! I'm a passionate developer with a strong foundation in both front-end and back-end technologies. 
+
+<img align="right" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721779200&semt=ais_user">
+
+My skill set includes:
 
 Front-End Development: HTML, CSS, JavaScript, React
 Back-End Development: Node.js, Express, EJS, MongoDB
