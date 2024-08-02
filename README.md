@@ -8,10 +8,15 @@
 My skill set includes:
 
 Front-End Development: HTML, CSS, JavaScript, React
+
 Back-End Development: Node.js, Express, EJS, MongoDB
+
 Full-Stack Expertise: MERN Stack (MongoDB, Express, React, Node.js)
+
 Programming Languages: Python, Java, C++
+
 Mobile Development: Flutter, Dart, Android
+
 AI/ML: Machine Learning, Artificial Intelligence
 
 I enjoy building dynamic and responsive web applications, as well as diving into new technologies to keep up with the latest trends. Whether it's crafting a seamless user experience or developing a robust server-side solution, I'm excited about tackling challenges and creating innovative solutions.
