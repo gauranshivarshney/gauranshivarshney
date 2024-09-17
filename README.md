@@ -1,7 +1,7 @@
 ![logo](https://github.com/gauranshivarshney/gauranshivarshney/blob/main/A%20SELF%20LEARNER.png)
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate developer with a strong foundation in both front-end technologies. 
+👋 Hi there! I'm a passionate developer with a strong foundation in front-end technologies. 
 
 <img align="right" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721779200&semt=ais_user">
 
