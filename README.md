@@ -7,15 +7,13 @@
 
 My skill set includes:
 
-Front-End Development: HTML, CSS, JavaScript, React
-
-Back-End Development: Node.js, Express, EJS, MongoDB
-
-Full-Stack Expertise: MERN Stack (MongoDB, Express, React, Node.js)
+Front-End Development: HTML, CSS, JavaScript
 
 Programming Languages: Python, C++
 
-Database: SQL, MongoDB
+Database: SQL
+
+Framework / Tools / Technologies: React, Django, Git and GitHub, Figma 
 
 AI/ML: Machine Learning, Artificial Intelligence
 
