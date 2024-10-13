@@ -35,8 +35,5 @@ Feel free to check out my projects and get in touch if you'd like to collaborate
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauranshivarshney&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauranshivarshney&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gauranshivarshney&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gauranshivarshney&icon=5&color=6)](https://visitcount.itsvg.in)
